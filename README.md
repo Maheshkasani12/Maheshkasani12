@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mahesh Kasani
-- 👀 I’m well skilled in cpp
-- 🌱 I’m currently learning Java
+- 👀 I’m well skilled in Html, Css, Js, MERN Stack.
+- 🌱 I’m currently learning Data Structures and Algorithms.
 - 💞️ I’m looking to collaborate on best company.
 - 📫 How to reach me Gmail: kasanimaheshgagan23@gmail.com
 
